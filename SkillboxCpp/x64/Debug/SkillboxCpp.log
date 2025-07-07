@@ -1,0 +1,5 @@
+﻿  SkillboxCpp.cpp
+D:\Games\VisualStudioProjects\Projects\SkillboxCpp\SkillboxCpp.cpp(45,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Games\VisualStudioProjects\Projects\SkillboxCpp\SkillboxCpp.cpp(48,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Games\VisualStudioProjects\Projects\SkillboxCpp\SkillboxCpp.cpp(51,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  SkillboxCpp.vcxproj -> D:\Games\VisualStudioProjects\Projects\SkillboxCpp\x64\Debug\SkillboxCpp.exe
