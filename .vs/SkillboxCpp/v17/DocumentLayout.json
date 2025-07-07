@@ -24,10 +24,24 @@
               "RelativeDocumentMoniker": "SkillboxCpp.cpp",
               "ToolTip": "D:\\Games\\VisualStudioProjects\\Projects\\SkillboxCpp\\SkillboxCpp.cpp",
               "RelativeToolTip": "SkillboxCpp.cpp",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAF4AAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-05T17:05:47.075Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1883,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
